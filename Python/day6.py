@@ -131,3 +131,22 @@ my_function()
 # 미로찾기 무한루프 예외가 존재함.
 # 초급단계는 15일 강의 후 다시 도전해볼것 권장!
 # 우선 넘어가고 이후에 다시 재도전 예정 
+
+# final PJT Code
+
+# def turn_right():
+#     for right in range(3):
+#         turn_left()
+
+# while front_is_clear(): # 오른쪽에 벽을 둔 상태로 만들어줌
+#     move()
+# turn_left
+
+# while not at_goal():
+#     if right_is_clear():
+#         turn_right()
+#         move()
+#     elif front_is_clear():
+#         move()
+#     else:
+#         turn_left()
